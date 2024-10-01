@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9855" data-name="Rectangle 9855" width="52" height="52" rx="26" fill="#e30513"/>
+    </clipPath>
+  </defs>
+  <g id="ic_jiotv" transform="translate(-0.093 0.127)">
+    <g id="Mask_Group_137205" data-name="Mask Group 137205" transform="translate(0.093 -0.127)" clip-path="url(#clip-path)">
+      <g id="ic_jiocloud" transform="translate(0 0)">
+        <rect id="Rectangle_9857" data-name="Rectangle 9857" width="52" height="52" rx="11" transform="translate(0)" fill="#f38020"/>
+        <g id="Group_3" data-name="Group 3" transform="translate(9.001 14.778)">
+          <path id="Path_2" data-name="Path 2" d="M46.427,41.938a5.644,5.644,0,0,1,1.118-.075,7.9,7.9,0,1,1,0,15.807H27.936a6.491,6.491,0,0,1-6.486-6.493,6.413,6.413,0,0,1,5.815-6.413,9.911,9.911,0,0,1,9.916-9.013A10.071,10.071,0,0,1,46.427,41.938Z" transform="translate(-21.45 -35.75)" fill="#fff"/>
+        </g>
+        <rect id="Rectangle_9858" data-name="Rectangle 9858" width="52" height="52" rx="11" transform="translate(0)" fill="#f38020" opacity="0.1"/>
+      </g>
+    </g>
+    <path id="Path_64469" data-name="Path 64469" d="M0,15Z" transform="translate(0.141 8.124)" fill="#fdc3c7" opacity="0.2"/>
+  </g>
+</svg>
